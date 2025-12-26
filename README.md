@@ -6,6 +6,8 @@ This template is generated from the `lit-starter-ts` package in [the main Lit
 repo](https://github.com/lit/lit). Issues and PRs for this template should be
 filed in that repo.
 
+This is a version of the template that updates all dependencies to a later version, theirby eliminating all vulnerabilities currently existing in the official template. I have also migrated the eslint configuration.  
+
 ## About this release
 
 This is a pre-release of Lit 3.0, the next major version of Lit.
